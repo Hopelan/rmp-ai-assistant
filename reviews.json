@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Johnson's lectures were clear, and she was always available during office hours. Highly recommend!"
+      },
+      {
+        "professor": "Professor Mark Thompson",
+        "subject": "History",
+        "stars": 3,
+        "review": "Interesting class, but often went off-topic. Grading was fair but inconsistent at times."
+      },
+      {
+        "professor": "Dr. Alicia Parker",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Challenging class, but Dr. Parker explains difficult concepts well. The exams are tough but fair."
+      },
+      {
+        "professor": "Professor Robert Miller",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "The material was hard to follow, and the professor didn’t provide much guidance."
+      },
+      {
+        "professor": "Dr. Sarah Mitchell",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "One of the best professors! Her lectures were engaging, and assignments were thought-provoking."
+      },
+      {
+        "professor": "Dr. Andrew Clark",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Clark is knowledgeable and approachable. The material was difficult, but he made it interesting."
+      },
+      {
+        "professor": "Professor Laura Stevens",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Sometimes confusing, but if you go to office hours, she clears things up. Exams are tough."
+      },
+      {
+        "professor": "Dr. George Bennett",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Great professor, but the class requires a lot of effort. Lab work was particularly challenging."
+      },
+      {
+        "professor": "Professor Rachel Anderson",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Professor Anderson was amazing! She made complex theories easy to understand. Take her class if you can!"
+      },
+      {
+        "professor": "Dr. Michael Wright",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Too much reading and the professor barely explains the material in class. Not a great experience."
+      },
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "The lectures were informative, but the professor moved too quickly through the material."
+      },
+      {
+        "professor": "Professor Jason Lee",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Engaging and knowledgeable. Professor Lee really knows his subject, and the discussions were insightful."
+      },
+      {
+        "professor": "Dr. Olivia Green",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Dr. Green is an amazing professor! She provides great feedback on essays and fosters critical thinking."
+      },
+      {
+        "professor": "Professor William Davis",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "I found the class confusing, and the professor’s explanations weren’t very helpful."
+      },
+      {
+        "professor": "Dr. Laura Brown",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Very engaging class! Dr. Brown made the subject come alive with her real-world examples."
+      },
+      {
+        "professor": "Professor Kevin White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Professor White was okay, but the lectures were dry. The tests were fair though."
+      },
+      {
+        "professor": "Dr. James Lewis",
+        "subject": "History",
+        "stars": 5,
+        "review": "Dr. Lewis is a phenomenal lecturer! His storytelling made history feel like an adventure."
+      },
+      {
+        "professor": "Dr. Megan Harris",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Great professor, but the assignments were quite challenging. Learned a lot in the process."
+      },
+      {
+        "professor": "Professor Daniel King",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "The lectures were useful, but the group projects were poorly organized. A decent class overall."
+      },
+      {
+        "professor": "Dr. Henry Morgan",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Challenging but rewarding. Dr. Morgan is an expert in his field, and you’ll learn a lot if you put in the effort."
+      }
+    ]
+  }
+  
