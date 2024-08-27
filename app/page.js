@@ -2,6 +2,7 @@
 import { useState } from "react";
 import ProfessorAssistant from "./ProfessorAssistant";
 
+
 export default function Home() {
   const [messages, setMessages] = useState([
     {
@@ -11,7 +12,8 @@ export default function Home() {
   ]);
   const [message, setMessage] = useState("");
 
-  const sendMessage = async () => {
+  const sendMessage = async (e) => {
+    e.preventDefault()
     setMessage("");
     setMessages((messages) => [
       ...messages,
@@ -54,7 +56,7 @@ export default function Home() {
     <ProfessorAssistant
       message={message}
       setMessage={setMessage}
-      messages={message}
+      messages={messages}
       sendMessage={sendMessage}
     />
   );

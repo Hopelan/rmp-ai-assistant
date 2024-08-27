@@ -1,5 +1,4 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -14,6 +13,7 @@ import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import { ReloadIcon } from "@radix-ui/react-icons";
 import Link from "next/link";
 import { useUser } from "@clerk/nextjs";
+import { Button } from "@/components/ui/button"
 
 export default function ProfessorAssistant({
   messages,
@@ -34,7 +34,7 @@ export default function ProfessorAssistant({
   if (isLoaded && !isSignedIn) {
     return (
       <div>
-        You are not signed in, sign in <Link href="/sign">here</Link>{" "}
+        You are not signed in, sign in <Link href="/sign-in">here</Link>{" "}
       </div>
     );
   }
@@ -132,7 +132,7 @@ export default function ProfessorAssistant({
                 onChange={(e) => setMessage(e.target.value)}
                 className="flex-grow"
               />
-              <Button onClick={sendMessage} size="icon">
+              <Button onClick={ sendMessage } size="icon">
                 <SendIcon className="h-4 w-4" />
                 <span className="sr-only">Send message</span>
               </Button>
